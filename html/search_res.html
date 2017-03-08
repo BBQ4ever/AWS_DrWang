@@ -10,7 +10,12 @@
         var url = $.url(); // parse the current page URL
         console.log(url.param("el"));
         console.log(url.param("em"));
-        $.get("/getdata", function(result) {
+        var el = url.param("el");
+        var em = url.param("em");
+        $.post("/getdata", {
+            "el": el,
+            "em": em
+        }, function(result) {
             $("#divContent").html(result);
         });
     });
