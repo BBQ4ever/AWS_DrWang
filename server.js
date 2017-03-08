@@ -23,9 +23,6 @@ app.post("/formlogin", function(req, res) {
 
 app.get("/getdata", function(req, res) {
     console.log(req.body);
-    // jsonfile.writeFile(file, req.body, function(err) {
-    //     console.error(err)
-    // })
     search_res.readfile(res);
 });
 

@@ -1,5 +1,19 @@
 # AWS_DrWang
 
+Redirct to a New Result Page
+====
+* **server.js** provides nodejs server code. we can use **node server** to start this server which is listening with the port **3000**.
+
+ ![alt text](https://github.com/jilianggqq/AWS_DrWang/blob/master/pictures/startserver.png "Start Server")
+
+* Visit the url [http://localhost:3000/search.html](http://localhost:3000/search.html)
+
+ ![alt text](https://github.com/jilianggqq/AWS_DrWang/blob/master/pictures/searchfilter.png "search filter")
+
+* It will redirect to [http://localhost:3000/search_res.html](http://localhost:3000/search_res.html) and display the search result.
+
+![alt text](https://github.com/jilianggqq/AWS_DrWang/blob/master/pictures/searchresult.png "search result")
+
 Get Data From Server
 =====
 * **server.js** provides nodejs server code. we can use **node server** to start this server which is listening with the port **3000**.
