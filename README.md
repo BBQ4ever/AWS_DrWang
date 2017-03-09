@@ -2,9 +2,7 @@
 
 Redirct to a New Result Page
 ====
-* **server.js** provides nodejs server code. we can use **node server** to start this server which is listening with the port **8081**.
-
- ![alt text](https://github.com/jilianggqq/AWS_DrWang/blob/master/pictures/startserver.png "Start Server")
+* **server.js** provides nodejs server code. we can use ** node server_test.js** to start this server which is listening with the port **8081**.
 
 * Visit the url [http://localhost:8081/query](http://localhost:8081/query)
 
