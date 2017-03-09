@@ -2,7 +2,7 @@
 
 Redirct to a New Result Page
 ====
-* **server.js** provides nodejs server code. we can use ** node server_test.js** to start this server which is listening with the port **8081**.
+* **server.js** provides nodejs server code. we can use **node server_test.js** to start this server which is listening with the port **8081**.
 
 * Visit the url [http://localhost:8081/query](http://localhost:8081/query)
 
