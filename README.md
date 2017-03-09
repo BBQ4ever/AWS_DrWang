@@ -2,15 +2,15 @@
 
 Redirct to a New Result Page
 ====
-* **server.js** provides nodejs server code. we can use **node server** to start this server which is listening with the port **3000**.
+* **server.js** provides nodejs server code. we can use **node server** to start this server which is listening with the port **8081**.
 
  ![alt text](https://github.com/jilianggqq/AWS_DrWang/blob/master/pictures/startserver.png "Start Server")
 
-* Visit the url [http://localhost:3000/search.html](http://localhost:3000/search.html)
+* Visit the url [http://localhost:8081/query](http://localhost:8081/query)
 
  ![alt text](https://github.com/jilianggqq/AWS_DrWang/blob/master/pictures/searchfilter.png "search filter")
 
-* Click **Redirect to Result Page**, it will redirect to [http://localhost:3000/search_res.html](http://localhost:3000/search_res.html) and display the search result.
+* Click **Redirect to Result Page**, it will redirect to [http://localhost:8081/process_get](http://localhost:8081/process_get) and display the search result.
 
 ![alt text](https://github.com/jilianggqq/AWS_DrWang/blob/master/pictures/searchresult.png "search result")
 
