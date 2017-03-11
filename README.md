@@ -17,7 +17,7 @@ Get Data From Server
 * **server.js** provides nodejs server code. we can use **node server** to start this server which is listening with the port **3000**.
 
  ![alt text](https://github.com/jilianggqq/AWS_DrWang/blob/master/pictures/startserver.png "Start Server")
-* Visit the url [http://localhost:3000/search_res.html](http://localhost:3000/search_res.html)
+* Visit the url [http://localhost:3000/search.html](http://localhost:3000/search_res.html)
 
  ![alt text](https://github.com/jilianggqq/AWS_DrWang/blob/master/pictures/search_res.png "Start Server")
 * Click the button **Get Data From Server**. It will display the data responsed from the server.
